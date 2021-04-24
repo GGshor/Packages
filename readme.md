@@ -3,7 +3,8 @@
 ## Installing the packages
 First make sure you have [Commander](https://github.com/va1kio/commander) then you can get to installing the packages!
 
-# Packages
+# Packages:
+
 ## To
 ### Running version: 
 ```bash
