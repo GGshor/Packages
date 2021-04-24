@@ -1,9 +1,0 @@
-# Project place file
-/To.rbxlx
-
-# Roblox Studio lock files
-/*.rbxlx.lock
-/*.rbxl.lock
-
-#rojo settings
-*.json
