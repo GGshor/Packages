@@ -4,6 +4,7 @@
 First make sure you have [Commander](https://github.com/va1kio/commander) then you can get to installing the packages!
 
 # Packages:
+Under here are all the packages made by me and their versions.
 
 ## To
 ### Running version: 
